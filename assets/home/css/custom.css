@@ -1,0 +1,54 @@
+.showcase,
+.headInfo {
+	width: 100%;
+}
+
+.showcase {
+	border-bottom: 1px solid #105497;
+	padding: 20px;
+	text-align: center; /* ini buat centering logo */
+}
+
+.headInfo {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+
+
+h1.likeGreen {
+	font-size: 3.7rem;
+	font-weight: 600;
+	padding: 10px 20px;
+	background: #105497;
+	width: auto;
+	color: #fff;
+	letter-spacing: 2px;
+}
+
+
+/* overwrite botsetrap class */
+/*.container-fluid {
+    padding: 7px;
+}*/
+
+
+/*#nav {
+     padding: 0;
+}
+
+*/
+
+
+#outl{
+	border-color: #4CAF50;
+	border: 2px solid black;
+	color: black;
+}
+
+/* box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit; */
+.container-fluid{
+	box-shadow: 1px 1px 1px rgba(27, 24, 206, 1);
+}
